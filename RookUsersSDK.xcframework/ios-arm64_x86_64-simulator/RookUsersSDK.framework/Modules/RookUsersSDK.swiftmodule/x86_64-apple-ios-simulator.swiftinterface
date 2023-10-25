@@ -10,6 +10,12 @@ import _StringProcessing
 public struct JSONParameterEncoder : RookUsersSDK.ParameterEncoder {
   public static func encode(urlRequest: inout Foundation.URLRequest, with parameters: RookUsersSDK.Parameters) throws
 }
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class UsersIOSClass : ObjectiveC.NSObject {
+  @objc public static var shared: RookUsersSDK.UsersIOSClass
+  @objc public func test()
+  @objc public func diableTest()
+  @objc deinit
+}
 public struct URLParameterEncoder : RookUsersSDK.ParameterEncoder {
   public static func encode(urlRequest: inout Foundation.URLRequest, with parameters: RookUsersSDK.Parameters) throws
 }
