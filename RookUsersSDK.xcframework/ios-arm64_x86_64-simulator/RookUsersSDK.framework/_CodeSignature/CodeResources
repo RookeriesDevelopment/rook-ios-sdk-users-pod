@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/RookUsersSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		z77hFUommIXzFU065a/NH9r1MQY=
+		YWlWLOLEn45+d1cRh5mkipAg09I=
 		</data>
 		<key>Modules/RookUsersSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Amh/bDYB6kzNZfd0D92Vg+YBqr8=
+		lY+/fViv+6QMgc687X222BiVACs=
 		</data>
 		<key>Modules/RookUsersSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/RookUsersSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Amh/bDYB6kzNZfd0D92Vg+YBqr8=
+		lY+/fViv+6QMgc687X222BiVACs=
 		</data>
 		<key>Modules/RookUsersSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		huNj3eFYZ2fguO+Mwyxp2eLlyLg=
+		XlpSexddIL3eUt9Gbh891yxhJhk=
 		</data>
 		<key>Modules/RookUsersSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		z77hFUommIXzFU065a/NH9r1MQY=
+		YWlWLOLEn45+d1cRh5mkipAg09I=
 		</data>
 		<key>Modules/RookUsersSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		1cnUF4SWEO9zzwlv9nAMKSpWcZE=
+		29XHoC0P0Sdp19oo+3H2TxY+aOc=
 		</data>
 		<key>Modules/RookUsersSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/RookUsersSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1cnUF4SWEO9zzwlv9nAMKSpWcZE=
+		29XHoC0P0Sdp19oo+3H2TxY+aOc=
 		</data>
 		<key>Modules/RookUsersSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		So27TnikFWzZw+YubE7sGHV/+L8=
+		jJ4/JjS/iIFh0rtrHa5BEow5r5Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HrR+6N2lcjx7LfvXEDKmOZmRSiMgdPh075fHZCIbrWk=
+			7NtLpreE48j5Cy5YwljH5aNlVvtq8VYZHeqeWx+4x8U=
 			</data>
 		</dict>
 		<key>Modules/RookUsersSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nCMYAVf06sx07/3puzLd2S/AMd8m2PTtffaBXc+fcOo=
+			TScSFiofYvAroaLoYXWJyrHb9er22w/m4orTJPI57SU=
 			</data>
 		</dict>
 		<key>Modules/RookUsersSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nCMYAVf06sx07/3puzLd2S/AMd8m2PTtffaBXc+fcOo=
+			TScSFiofYvAroaLoYXWJyrHb9er22w/m4orTJPI57SU=
 			</data>
 		</dict>
 		<key>Modules/RookUsersSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/UFjI4IpSP7QSSeH6M7P7C8WWu9lEzJJT2GB6hk4QQw=
+			QV8OahQ7ymljt8C3gBgNfBOlporjrAzIQmKdNF9vC1Y=
 			</data>
 		</dict>
 		<key>Modules/RookUsersSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HrR+6N2lcjx7LfvXEDKmOZmRSiMgdPh075fHZCIbrWk=
+			7NtLpreE48j5Cy5YwljH5aNlVvtq8VYZHeqeWx+4x8U=
 			</data>
 		</dict>
 		<key>Modules/RookUsersSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rRMXOs2YekS0rjdd4tcfIRoO017Ic5MyStpUJc2+ljo=
+			8+RLKgxq3MzXU0Cbv/SYCV1LnusUKdbZ13MzS/zfT5U=
 			</data>
 		</dict>
 		<key>Modules/RookUsersSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rRMXOs2YekS0rjdd4tcfIRoO017Ic5MyStpUJc2+ljo=
+			8+RLKgxq3MzXU0Cbv/SYCV1LnusUKdbZ13MzS/zfT5U=
 			</data>
 		</dict>
 		<key>Modules/RookUsersSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			29DvkFBXq7eo4b1Pk1em57/RI12zSKx5aQD0cHkH6H0=
+			d7xKja5uTLmVVhpHTYTU3EZIKowetGsdS7wfZ5illq0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
