@@ -24,6 +24,7 @@ final public class RookUsersManger {
   final public func registerRookUser(with id: Swift.String, completion: @escaping (Swift.Result<Swift.Bool, Swift.Error>) -> Swift.Void)
   final public func getUserIdStored(completion: @escaping (Swift.Result<Swift.String, Swift.Error>) -> Swift.Void)
   final public func removeUser(completion: @escaping (Swift.Result<Swift.Bool, Swift.Error>) -> Swift.Void)
+  final public func removeUserFromRook(completion: @escaping (Swift.Result<Swift.Bool, Swift.Error>) -> Swift.Void)
   @objc deinit
 }
 public typealias Parameters = [Swift.String : Any]
