@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "RookUsersSDK"
-  spec.version      = "1.0.4"
+  spec.version      = "1.0.5"
   spec.summary      = "RookUsersSDK iOS Lib"
 
   spec.description  = "RookUsersSDK iOS sdk allows to registers new users in the rook server"
@@ -22,7 +22,7 @@ Pod::Spec.new do |spec|
   spec.swift_version = '5.0'
 
 
-  spec.source       = { :git => "https://github.com/RookeriesDevelopment/rook-ios-sdk-users-pod.git", :tag => "1.0.4" }
+  spec.source       = { :git => "https://github.com/RookeriesDevelopment/rook-ios-sdk-users-pod.git", :tag => "1.0.5" }
 
   spec.ios.vendored_frameworks = 'RookUsersSDK.xcframework'
 
